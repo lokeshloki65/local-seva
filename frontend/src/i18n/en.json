@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Smart Local Home Services",
+    "searchPlaceholder": "Search for plumbing, cleaning, appliances...",
+    "trending": "Trending near you",
+    "categories": "Home Categories"
+  },
+  "booking": {
+    "configure": "Configure Package",
+    "schedule": "Scheduled Address",
+    "confirm": "Verify Payment",
+    "otpCode": "Completion PIN",
+    "invoice": "Itemized Invoice"
+  },
+  "wallet": {
+    "balance": "Available Balance",
+    "topup": "Replenish Balance",
+    "history": "Ledger Statements"
+  }
+}
